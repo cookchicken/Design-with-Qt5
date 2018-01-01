@@ -290,7 +290,7 @@ Then compare the four Sorting algorithms' performance：Bubble sort,Insertion so
   (c) display the exchange detail</br>
   (d) move Count +1</br>
   (e) every execution the Row +1</r>
-  (f) output the every step sorting result to tablewidget 
+  (f) output the every step sorting result to tablewidget </br>
 > other 3 sort algorithms frame are familiar with the bubble sort, no more explanation here.</br>
   Caution:</br>
           quick sort and heap sort need to declare the cmp_Count and move_Count as global variable.
