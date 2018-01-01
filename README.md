@@ -1,6 +1,6 @@
 # Design with Qt5
 ## Resume of Qt5
-！[Qt5 icon](https://baike.baidu.com/pic/qt/451743/0/d439b6003af33a87a4043fc6c05c10385243b584?fr=lemma&ct=single#aid=0&pic=d439b6003af33a87a4043fc6c05c10385243b584)
+！[Qt5 icon](https://github.com/cookchicken/Design-with-Qt5/blob/master/img-folder/d439b6003af33a87a4043fc6c05c10385243b584.jpg)
 </br>
 Qt has everything you need to quickly and cost-effectively design, develop, test, deploy and maintain your software for any project. Focus on creating the best user experiences instead of coding what’s already been coded for you.
 ## Resume of topic
