@@ -297,5 +297,5 @@ Then compare the four Sorting algorithms' performance：Bubble sort,Insertion so
 *Caution:</br>*
 *quick sort and heap sort need to declare the cmp_Count and move_Count as global variable.*
 
-##Program screenshot
+## Program screenshot
 You can find all the interface screenshots in image file. XD..
