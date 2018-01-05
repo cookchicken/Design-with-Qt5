@@ -3,7 +3,8 @@
 ![Qt5 icon](https://github.com/cookchicken/Design-with-Qt5/blob/master/img-folder/d439b6003af33a87a4043fc6c05c10385243b584.jpg)
 </br>
 Qt has everything you need to quickly and cost-effectively design, develop, test, deploy and maintain your software for any project. Focus on creating the best user experiences instead of coding what’s already been coded for you.
-## Development environment
+## Feature
+Wirtten in C++ with Qt5
 Qt5.8.0(Community)
 ## Resume of topic
 Creating 10 groups' data randomly and each group contains 100 elements</br>
