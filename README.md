@@ -5,7 +5,6 @@
 Qt has everything you need to quickly and cost-effectively design, develop, test, deploy and maintain your software for any project. Focus on creating the best user experiences instead of coding what’s already been coded for you.
 ## Feature
 Wirtten in C++ with Qt5
-Qt5.8.0(Community)
 ## Resume of topic
 Creating 10 groups' data randomly and each group contains 100 elements</br>
 Then compare the four Sorting algorithms' performance：Bubble sort,Insertion sort,Quick sort,Heap sort.
